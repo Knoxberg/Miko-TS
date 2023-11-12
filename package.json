@@ -1,0 +1,19 @@
+{
+  "name": "miko-bot-ts",
+  "version": "0.0.1",
+  "description": "Basic Discord bot written in Typescript",
+  "main": "src/bot.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Knoxberg/Miko-TS.git"
+  },
+  "author": "Knoxberg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Knoxberg/Miko-TS/issues"
+  },
+  "homepage": "https://github.com/Knoxberg/Miko-TS#readme"
+}
